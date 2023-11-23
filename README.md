@@ -1,6 +1,3 @@
-# Moodle
-
-
 fix MySQL xampp 
   set port 3307
   
