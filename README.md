@@ -1,10 +1,6 @@
-When you set up Moodle in your machine, upload from Moodle setting the .xdd file 
+When you set up Moodle in your machine, upload from Moodle setting the 'backup-moodle2-course-2-πληροφορική-20240114-1958.mbz' file 
 
-
-
-
-
-fix MySQL xampp 
+-fix MySQL xampp 
   set port 3307
   
   C:\xampp\mysql:
