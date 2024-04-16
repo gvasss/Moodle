@@ -1,3 +1,9 @@
+When you set up Moodle in your machine, upload from Moodle setting the .xdd file 
+
+
+
+
+
 fix MySQL xampp 
   set port 3307
   
